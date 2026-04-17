@@ -1,0 +1,15 @@
+root
+admin
+smithy
+guest
+info
+adm
+mysql
+1337
+administrator
+pablo
+ftp
+puppet
+ansible
+vagrant
+gordonb
